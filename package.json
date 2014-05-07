@@ -1,0 +1,17 @@
+{
+  "name": "jsx-typescript",
+  "version": "0.1.0",
+  "description": "typescript with react jsx support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "jsx"
+  ],
+  "author": "François de Campredon",
+  "license": "Apache License V2"
+}
+
